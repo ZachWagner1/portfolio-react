@@ -3,7 +3,7 @@ import Navigation from '../Nav/Nav';
 
 function Header() {
     return (
-        <div className="Header">
+        <header className="Header">
             <Navigation />
             <section class="hero">
                 <div>
@@ -11,7 +11,7 @@ function Header() {
                         src="./assets/images/BioPic.png" alt="Zachary Wagner" />
                 </div>
             </section>
-        </div>
+        </header>
 
     )
 }
