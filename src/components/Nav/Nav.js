@@ -4,7 +4,6 @@ function Nav() {
     return (
         <div className="Navigation">
             <nav id="navbar">
-                <h1>Zachary Wagner</h1>
             <div className="logo">
 					<h2>
 						<a href="#home">Zachary Wagner</a>
