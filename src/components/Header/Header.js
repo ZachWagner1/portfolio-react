@@ -8,7 +8,7 @@ function Header() {
             <section class="hero">
                 <div>
                     <img id="bio-image"
-                        src="./assets/images/BioPic.png" alt="Zachary Wagner" />
+                        src={require("../../assets/images/BioPic.png")} alt="Zachary Wagner" />
                 </div>
             </section>
         </header>

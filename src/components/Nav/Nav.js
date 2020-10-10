@@ -4,6 +4,7 @@ function Nav() {
     return (
         <div className="Navigation">
             <nav id="navbar">
+
             <div className="logo">
 					<h2>
 						<a href="#home">Zachary Wagner</a>
@@ -20,7 +21,7 @@ function Nav() {
                         <a href="#Contact-Me">Contact Me</a>
                     </li>
                     <li>
-                        <a href="#Resume">Resume</a>
+                        <a href="https://docs.google.com/document/d/1eVnaAWolhGR1IHMTj2Vpuum2-bhzmQwDptbxQICz3kA/edit?usp=sharing">Resume</a>
                     </li>
                 </ul>
             </nav>
