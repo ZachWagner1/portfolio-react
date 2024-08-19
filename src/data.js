@@ -1,19 +1,19 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Password Generator",
+    subtitle: "Javascript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "A simple password generator that prompts the user for various character types.",
+    image: "./PassGen.gif",
+    link: "https://zachwagner1.github.io/PasswordGenerator/",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "Weather Dashboard",
+    subtitle: "Javascript",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "A dashboard that allows the user to see the five day weather forecast for a particular city.",
+    image: "./weatherdb.gif",
+    link: "https://zachwagner1.github.io/Weather-Dashboard/",
   },
   {
     title: "DevChat",
