@@ -16,11 +16,11 @@ export const projects = [
     link: "https://zachwagner1.github.io/Weather-Dashboard/",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Book Search Engine",
+    subtitle: "MongoDB, Express.js, React, and Node.js",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
+      "A full-stack MERN app that allows users to search Google's book database by title. Users can sign up to save books to a collection that they can view later.",
+    image: "./BookSearch.gif",
     link: "https://reactbootcamp.com",
   },
   {
